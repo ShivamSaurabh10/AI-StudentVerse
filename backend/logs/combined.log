@@ -1,0 +1,1053 @@
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-15 16:14:48"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"service":"conversational-intelligence","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (S:\\Project\\AI conversation\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (S:\\Project\\AI conversation\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at async connectWithRetry (S:\\Project\\AI conversation\\backend\\src\\server.js:43:7)","timestamp":"2025-04-15 16:14:53"}
+{"level":"info","message":"Retrying in 5 seconds...","service":"conversational-intelligence","timestamp":"2025-04-15 16:14:53"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"service":"conversational-intelligence","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (S:\\Project\\AI conversation\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (S:\\Project\\AI conversation\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at async connectWithRetry (S:\\Project\\AI conversation\\backend\\src\\server.js:43:7)","timestamp":"2025-04-15 16:15:03"}
+{"level":"info","message":"Retrying in 5 seconds...","service":"conversational-intelligence","timestamp":"2025-04-15 16:15:03"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"service":"conversational-intelligence","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (S:\\Project\\AI conversation\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (S:\\Project\\AI conversation\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at async connectWithRetry (S:\\Project\\AI conversation\\backend\\src\\server.js:43:7)","timestamp":"2025-04-15 16:15:13"}
+{"level":"info","message":"Retrying in 5 seconds...","service":"conversational-intelligence","timestamp":"2025-04-15 16:15:13"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"service":"conversational-intelligence","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (S:\\Project\\AI conversation\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (S:\\Project\\AI conversation\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at async connectWithRetry (S:\\Project\\AI conversation\\backend\\src\\server.js:43:7)","timestamp":"2025-04-15 16:15:23"}
+{"level":"info","message":"Retrying in 5 seconds...","service":"conversational-intelligence","timestamp":"2025-04-15 16:15:23"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"service":"conversational-intelligence","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (S:\\Project\\AI conversation\\backend\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (S:\\Project\\AI conversation\\backend\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at async connectWithRetry (S:\\Project\\AI conversation\\backend\\src\\server.js:43:7)","timestamp":"2025-04-15 16:15:34"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-15 16:38:52"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-15 16:38:54"}
+{"level":"info","message":"Client connected: 7jIPS-c5bcimpWZJAAAC","service":"conversational-intelligence","timestamp":"2025-04-15 16:39:27"}
+{"level":"info","message":"Client disconnected: 7jIPS-c5bcimpWZJAAAC, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 16:40:58"}
+{"level":"info","message":"Client connected: hto8K6IC_ucL88LVAAAE","service":"conversational-intelligence","timestamp":"2025-04-15 16:40:58"}
+{"level":"info","message":"Client disconnected: hto8K6IC_ucL88LVAAAE, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-15 16:41:14"}
+{"level":"info","message":"Client connected: ge08ZltIUcyiAAihAAAH","service":"conversational-intelligence","timestamp":"2025-04-15 16:41:15"}
+{"level":"info","message":"Client disconnected: ge08ZltIUcyiAAihAAAH, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:02"}
+{"level":"info","message":"Client connected: uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:02"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:44"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:44"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:45"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:46"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:47"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:47"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:47"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:48"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:49"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:49"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:49"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:50"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:51"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:51"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:51"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:52"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:53"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:53"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:53"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:54"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:55"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:55"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:56"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:57"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:57"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:57"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:58"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:59"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:59"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:42:59"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:00"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:01"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:01"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:01"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:02"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:03"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:03"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:03"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:04"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:05"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:05"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:05"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:06"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:07"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:07"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:08"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:09"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:09"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:15"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:15"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:16"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:17"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:17"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:18"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:19"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:19"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:19"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:20"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:20"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:21"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:21"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:22"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:22"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:23"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:23"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:24"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:24"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:25"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:27"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:28"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:28"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:29"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:30"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:31"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:32"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:34"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:36"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:36"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:37"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:37"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:37"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:40"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:40"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:42"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:42"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:42"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:43"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:43"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:43"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:43"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:44"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:44"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:44"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:45"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:45"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:45"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:46"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:46"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:46"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:46"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:46"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:47"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:47"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:47"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:47"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:47"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:48"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:48"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:48"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:48"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:49"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:50"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:50"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:50"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:43:51"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:06"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:06"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:07"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:07"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:07"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:07"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:07"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:07"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:07"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:07"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:08"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:08"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:09"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:09"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:10"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:10"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:11"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:11"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:11"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:11"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:12"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:12"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:12"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:13"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:13"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:13"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:14"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:14"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:14"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:15"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:15"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:15"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:16"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:16"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:16"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:17"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:17"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:17"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:17"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:18"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:18"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:18"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:18"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:18"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:19"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:19"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:20"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:20"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:20"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:20"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:20"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:21"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:21"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:21"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:21"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:21"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:21"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:22"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:22"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:22"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:22"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:22"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:23"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:23"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:23"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:24"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:25"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:26"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:27"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:27"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:27"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:27"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:27"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:27"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:27"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:27"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:28"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:28"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:29"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:29"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:29"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:30"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:30"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:30"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:30"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:31"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:31"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:31"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:31"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:32"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:32"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:32"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:33"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:33"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:33"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:33"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:33"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:34"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:34"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:34"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:34"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:34"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:35"}
+{"level":"info","message":"Analyzing text from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:35"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:35"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:35"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:36"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:36"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:37"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:39"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:40"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:40"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:41"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:42"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:42"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:46"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:46"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:47"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:48"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:48"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:49"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:49"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:49"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:50"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:50"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:51"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:51"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:52"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:52"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:53"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:53"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:54"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:44:54"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:03"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:03"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:04"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:04"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:05"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:05"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:06"}
+{"level":"info","message":"Analyzing face data from client uzBB7qsZrY8pJ-f-AAAK","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:06"}
+{"level":"info","message":"Client disconnected: uzBB7qsZrY8pJ-f-AAAK, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:07"}
+{"level":"info","message":"Client connected: Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:07"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:14"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:15"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:15"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:15"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:16"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:16"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:17"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:17"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:18"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:18"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:18"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:19"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:19"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:19"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:19"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:20"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:31"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:31"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:31"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:31"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:31"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:31"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:32"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:32"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:32"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:33"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:33"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:34"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:34"}
+{"level":"info","message":"Analyzing text from client Jr-iDcHug_nWMdRlAAAN","service":"conversational-intelligence","timestamp":"2025-04-15 16:45:34"}
+{"level":"info","message":"Client disconnected: Jr-iDcHug_nWMdRlAAAN, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-15 16:46:42"}
+{"level":"info","message":"Client connected: kY0ty-l-AimxHR0qAAAQ","service":"conversational-intelligence","timestamp":"2025-04-15 16:46:42"}
+{"level":"info","message":"Client disconnected: kY0ty-l-AimxHR0qAAAQ, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-15 16:46:52"}
+{"level":"info","message":"Client connected: lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:46:52"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:01"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:01"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:02"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:02"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:02"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:05"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:06"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:07"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:07"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:08"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:08"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:09"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:10"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:11"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:12"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:15"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:16"}
+{"level":"info","message":"Analyzing face data from client lec6rU_tySHZ-Yh4AAAT","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:17"}
+{"level":"info","message":"Client disconnected: lec6rU_tySHZ-Yh4AAAT, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 16:47:17"}
+{"level":"info","message":"Client connected: a4Xg1DSdJaGB0B8LAAAW","service":"conversational-intelligence","timestamp":"2025-04-15 17:01:58"}
+{"level":"info","message":"Analyzing face data from client a4Xg1DSdJaGB0B8LAAAW","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:11"}
+{"level":"info","message":"Analyzing face data from client a4Xg1DSdJaGB0B8LAAAW","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:11"}
+{"level":"info","message":"Analyzing face data from client a4Xg1DSdJaGB0B8LAAAW","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:13"}
+{"level":"info","message":"Analyzing face data from client a4Xg1DSdJaGB0B8LAAAW","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:13"}
+{"level":"info","message":"Client disconnected: a4Xg1DSdJaGB0B8LAAAW, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:14"}
+{"level":"info","message":"Client connected: Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:14"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:31"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:31"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:32"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:43"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:44"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:44"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:46"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:46"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:47"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:48"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:48"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:49"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:49"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:49"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:54"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:54"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:55"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:55"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:55"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:55"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:55"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:55"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:56"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:56"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:57"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:57"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:58"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:58"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:59"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:02:59"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:03:00"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:03:00"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:03:01"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:03:01"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:03:01"}
+{"level":"info","message":"Analyzing text from client Wz5lcRnT1DO06fGyAAAZ","service":"conversational-intelligence","timestamp":"2025-04-15 17:03:01"}
+{"level":"info","message":"Client disconnected: Wz5lcRnT1DO06fGyAAAZ, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-15 17:03:11"}
+{"level":"info","message":"Client connected: Ytn8khprGn37C4IPAAAc","service":"conversational-intelligence","timestamp":"2025-04-15 17:03:12"}
+{"level":"info","message":"Client disconnected: Ytn8khprGn37C4IPAAAc, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 17:03:14"}
+{"level":"info","message":"Client connected: BhVDSua9XzEHGX1QAAAf","service":"conversational-intelligence","timestamp":"2025-04-15 17:06:53"}
+{"level":"info","message":"Client disconnected: BhVDSua9XzEHGX1QAAAf, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 17:06:55"}
+{"level":"info","message":"Client connected: FKGPefFJv8AYGTyBAAAi","service":"conversational-intelligence","timestamp":"2025-04-15 17:07:04"}
+{"level":"info","message":"Client disconnected: FKGPefFJv8AYGTyBAAAi, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 17:07:06"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-15 20:56:17"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-15 20:56:30"}
+{"level":"info","message":"Client connected: wPt3psNOZhFamRimAAAC","service":"conversational-intelligence","timestamp":"2025-04-15 20:56:52"}
+{"level":"info","message":"Client disconnected: wPt3psNOZhFamRimAAAC, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:24"}
+{"level":"info","message":"Client connected: ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:24"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:36"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:36"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:37"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:37"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:38"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:52"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:52"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:52"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:52"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:52"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:53"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:54"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:57:54"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:16"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:19"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:19"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:20"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:22"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:23"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:23"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:24"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:24"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:25"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:25"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:26"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:26"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:27"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:27"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:28"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:28"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:29"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:29"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:30"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:30"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:31"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:31"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:32"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:32"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:33"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:33"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:34"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:35"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:35"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:36"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:36"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:37"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:37"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:38"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:39"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:39"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:40"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:40"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:41"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:41"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:42"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:42"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:43"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:43"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:44"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:44"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:45"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:45"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:46"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:46"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:47"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:47"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:48"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:48"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:49"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:49"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:50"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:50"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:51"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:51"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:52"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:53"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:53"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:54"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:54"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:55"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:55"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:56"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:56"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:57"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:57"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:58"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:58"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:59"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:58:59"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:00"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:01"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:01"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:02"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:02"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:03"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:03"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:04"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:04"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:05"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:05"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:06"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:06"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:08"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:08"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:09"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:09"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:10"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:12"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:12"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:13"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:13"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:14"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:14"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:15"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:15"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:16"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:18"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:18"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:19"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:19"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:20"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:21"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:22"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:22"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:23"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:24"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:24"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:25"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:26"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:26"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:27"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:28"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:32"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:32"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:33"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:33"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:34"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:34"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:35"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:36"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:36"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:37"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:37"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:39"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:42"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:43"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:44"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:44"}
+{"level":"info","message":"Analyzing face data from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:45"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:47"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:47"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 20:59:48"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:07"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:07"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:08"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:08"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:09"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:09"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:09"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:10"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:10"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:11"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:11"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:11"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:57"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:57"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:57"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:57"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:57"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:57"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:57"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:58"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:58"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:58"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:58"}
+{"level":"info","message":"Analyzing text from client ToGM_D70gy5rR0EPAAAF","service":"conversational-intelligence","timestamp":"2025-04-15 21:00:58"}
+{"level":"info","message":"Client disconnected: ToGM_D70gy5rR0EPAAAF, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 21:01:29"}
+{"level":"info","message":"Client connected: vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:46"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:52"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:52"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:53"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:54"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:55"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:55"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:56"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:56"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:57"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:57"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:58"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:59"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:06:59"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:00"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:00"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:01"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:01"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:02"}
+{"level":"info","message":"Analyzing face data from client vpJU0p8LivGNjpQcAAAI","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:02"}
+{"level":"info","message":"Client disconnected: vpJU0p8LivGNjpQcAAAI, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:02"}
+{"level":"info","message":"Client connected: jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:03"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:21"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:22"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:22"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:23"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:23"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:24"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:24"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:24"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:29"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:30"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:30"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:30"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:30"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:30"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:30"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:30"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:30"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:31"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:31"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:31"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:32"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:32"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:33"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:34"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:34"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:35"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:35"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:35"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:36"}
+{"level":"info","message":"Analyzing text from client jHDGJDVaQ0k0-yo4AAAL","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:36"}
+{"level":"info","message":"Client disconnected: jHDGJDVaQ0k0-yo4AAAL, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 21:07:39"}
+{"level":"info","message":"Client connected: OerIvOEkZKhET1n-AAAO","service":"conversational-intelligence","timestamp":"2025-04-15 21:08:39"}
+{"level":"info","message":"Client disconnected: OerIvOEkZKhET1n-AAAO, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 21:08:42"}
+{"level":"info","message":"Client connected: v-0K_LJWZLidKFsVAAAR","service":"conversational-intelligence","timestamp":"2025-04-15 21:16:37"}
+{"level":"info","message":"Client disconnected: v-0K_LJWZLidKFsVAAAR, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 21:17:39"}
+{"level":"info","message":"Client connected: Kk69jW0905L4eB9MAAAU","service":"conversational-intelligence","timestamp":"2025-04-15 21:18:55"}
+{"level":"info","message":"Client disconnected: Kk69jW0905L4eB9MAAAU, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 21:18:56"}
+{"level":"info","message":"Client connected: 1yMRN56H6nv8Pk5jAAAX","service":"conversational-intelligence","timestamp":"2025-04-15 21:19:00"}
+{"level":"info","message":"Client disconnected: 1yMRN56H6nv8Pk5jAAAX, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 21:19:02"}
+{"level":"info","message":"Client connected: HHm14fDPCFzb7DmJAAAa","service":"conversational-intelligence","timestamp":"2025-04-15 21:19:07"}
+{"level":"info","message":"Client disconnected: HHm14fDPCFzb7DmJAAAa, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 21:19:08"}
+{"level":"info","message":"Client connected: WUJgfgMQdoUikd3JAAAd","service":"conversational-intelligence","timestamp":"2025-04-15 21:19:30"}
+{"level":"info","message":"Client disconnected: WUJgfgMQdoUikd3JAAAd, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 21:19:31"}
+{"level":"info","message":"Client connected: O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:19:38"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:07"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:07"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:08"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:08"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:08"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:08"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:09"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:09"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:10"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:10"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:11"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:11"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:12"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:12"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:13"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:13"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:14"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:14"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:15"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:15"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:16"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:16"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:17"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:17"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:18"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:18"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:19"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:19"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:20"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:20"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:21"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:21"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:22"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:22"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:23"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:23"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:24"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:24"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:25"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:26"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:26"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:27"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:28"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:29"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:29"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:30"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:31"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:31"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:32"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:32"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:33"}
+{"level":"info","message":"Analyzing face data from client O5tlc3psU3CuWFP6AAAg","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:33"}
+{"level":"info","message":"Client disconnected: O5tlc3psU3CuWFP6AAAg, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:34"}
+{"level":"info","message":"Client connected: SKFeKlWjf45GNqGsAAAj","service":"conversational-intelligence","timestamp":"2025-04-15 21:25:34"}
+{"level":"info","message":"Client disconnected: SKFeKlWjf45GNqGsAAAj, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-15 21:26:48"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-16 18:36:14"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.cluster0.ksrtnbd.mongodb.net","level":"error","message":"MongoDB connection attempt 1 failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ksrtnbd.mongodb.net","service":"conversational-intelligence","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ksrtnbd.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv","timestamp":"2025-04-16 18:36:14"}
+{"level":"info","message":"Retrying in 5 seconds...","service":"conversational-intelligence","timestamp":"2025-04-16 18:36:14"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.cluster0.ksrtnbd.mongodb.net","level":"error","message":"MongoDB connection attempt 2 failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ksrtnbd.mongodb.net","service":"conversational-intelligence","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ksrtnbd.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv","timestamp":"2025-04-16 18:36:19"}
+{"level":"info","message":"Retrying in 5 seconds...","service":"conversational-intelligence","timestamp":"2025-04-16 18:36:19"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.cluster0.ksrtnbd.mongodb.net","level":"error","message":"MongoDB connection attempt 3 failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ksrtnbd.mongodb.net","service":"conversational-intelligence","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ksrtnbd.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv","timestamp":"2025-04-16 18:36:24"}
+{"level":"info","message":"Retrying in 5 seconds...","service":"conversational-intelligence","timestamp":"2025-04-16 18:36:24"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.cluster0.ksrtnbd.mongodb.net","level":"error","message":"MongoDB connection attempt 4 failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ksrtnbd.mongodb.net","service":"conversational-intelligence","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ksrtnbd.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv","timestamp":"2025-04-16 18:36:29"}
+{"level":"info","message":"Retrying in 5 seconds...","service":"conversational-intelligence","timestamp":"2025-04-16 18:36:29"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.cluster0.ksrtnbd.mongodb.net","level":"error","message":"MongoDB connection attempt 5 failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ksrtnbd.mongodb.net","service":"conversational-intelligence","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.ksrtnbd.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:293:17)","syscall":"querySrv","timestamp":"2025-04-16 18:36:34"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-16 18:37:14"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-16 18:37:15"}
+{"level":"info","message":"Client connected: j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:37:56"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:15"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:15"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:15"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:15"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:15"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:16"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:16"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:17"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:17"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:18"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:18"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:19"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:19"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:20"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:20"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:21"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:21"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:22"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:22"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:23"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:23"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:24"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:24"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:25"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:25"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:26"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:26"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:27"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:27"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:28"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:28"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:29"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:29"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:30"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:31"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:32"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:32"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:33"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:33"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:34"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:34"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:35"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:35"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:36"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:36"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:37"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:37"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:38"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:38"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:39"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:39"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:40"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:40"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:41"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:41"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:42"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:42"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:43"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:43"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:44"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:44"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:45"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:45"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:46"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:46"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:47"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:47"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:48"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:48"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:49"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:50"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:50"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:51"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:51"}
+{"level":"info","message":"Analyzing face data from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:52"}
+{"level":"info","message":"Analyzing text from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:53"}
+{"level":"info","message":"Analyzing text from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:54"}
+{"level":"info","message":"Analyzing text from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:54"}
+{"level":"info","message":"Analyzing text from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:54"}
+{"level":"info","message":"Analyzing text from client j1u0RPbAs4n_nTSyAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 18:38:55"}
+{"level":"info","message":"Client disconnected: j1u0RPbAs4n_nTSyAAAC, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-16 18:39:19"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-16 21:45:32"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-16 21:45:36"}
+{"level":"info","message":"Client connected: XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:45:53"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:43"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:44"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:44"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:45"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:45"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:45"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:46"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:46"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:47"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:47"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:48"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:48"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:49"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:49"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:50"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:52"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:52"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:52"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:53"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:56"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:57"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:58"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:58"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:58"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:59"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:46:59"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:00"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:00"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:01"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:02"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:02"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:03"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:03"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:04"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:08"}
+{"level":"info","message":"Analyzing text from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:09"}
+{"level":"info","message":"Analyzing text from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:09"}
+{"level":"info","message":"Analyzing text from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:09"}
+{"level":"info","message":"Analyzing text from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:09"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:09"}
+{"level":"info","message":"Analyzing text from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:10"}
+{"level":"info","message":"Analyzing face data from client XpwMjMASPTgBc-ZvAAAC","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:10"}
+{"level":"info","message":"Client disconnected: XpwMjMASPTgBc-ZvAAAC, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-16 21:47:16"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-19 20:33:06"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-19 20:33:09"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-19 20:56:03"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-19 21:01:28"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-19 21:05:11"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-19 21:05:21"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-20 19:13:08"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-20 19:13:11"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-20 20:08:35"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-20 20:10:46"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-20 20:33:43"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-21 22:47:39"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-21 22:47:41"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-21 22:56:21"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-21 23:02:40"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-21 23:02:43"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-21 23:04:25"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-21 23:04:26"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-21 23:04:30"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-21 23:04:33"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-21 23:04:53"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-21 23:04:55"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-21 23:04:59"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-21 23:05:03"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-21 23:05:07"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-21 23:05:08"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-21 23:05:13"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-21 23:05:15"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-21 23:51:04"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-21 23:51:06"}
+{"level":"info","message":"Client connected: fQXbwwhHgey6oHnNAAAC","service":"conversational-intelligence","timestamp":"2025-04-21 23:53:33"}
+{"level":"info","message":"Analyzing text from client fQXbwwhHgey6oHnNAAAC","service":"conversational-intelligence","timestamp":"2025-04-21 23:56:07"}
+{"level":"info","message":"Analyzing text from client fQXbwwhHgey6oHnNAAAC","service":"conversational-intelligence","timestamp":"2025-04-21 23:56:07"}
+{"level":"info","message":"Analyzing text from client fQXbwwhHgey6oHnNAAAC","service":"conversational-intelligence","timestamp":"2025-04-21 23:56:07"}
+{"level":"info","message":"Client disconnected: fQXbwwhHgey6oHnNAAAC, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 00:02:17"}
+{"level":"info","message":"Client connected: o3fbH_b272IAd7BpAAAE","service":"conversational-intelligence","timestamp":"2025-04-22 00:02:17"}
+{"level":"info","message":"Client disconnected: o3fbH_b272IAd7BpAAAE, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 00:02:51"}
+{"level":"info","message":"Client connected: Bx_6AnojuNhrcOq_AAAG","service":"conversational-intelligence","timestamp":"2025-04-22 00:02:51"}
+{"level":"info","message":"Client disconnected: Bx_6AnojuNhrcOq_AAAG, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 00:03:22"}
+{"level":"info","message":"Client connected: TUgBfm7ZmEKMHf5FAAAJ","service":"conversational-intelligence","timestamp":"2025-04-22 00:03:22"}
+{"level":"info","message":"Client disconnected: TUgBfm7ZmEKMHf5FAAAJ, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 00:03:56"}
+{"level":"info","message":"Client connected: 7MCxtH7oETeBUJuDAAAL","service":"conversational-intelligence","timestamp":"2025-04-22 00:03:56"}
+{"level":"info","message":"Client disconnected: 7MCxtH7oETeBUJuDAAAL, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 00:07:53"}
+{"level":"info","message":"Client connected: T2yLLE0aPu4bc3XjAAAO","service":"conversational-intelligence","timestamp":"2025-04-22 00:07:59"}
+{"level":"info","message":"Client disconnected: T2yLLE0aPu4bc3XjAAAO, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 00:09:25"}
+{"level":"info","message":"Client connected: 9Ppsu0SYu7bYJJqOAAAQ","service":"conversational-intelligence","timestamp":"2025-04-22 00:09:26"}
+{"level":"info","message":"Client disconnected: 9Ppsu0SYu7bYJJqOAAAQ, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 00:10:22"}
+{"level":"info","message":"Client connected: KKxhL3Vndz3n18UWAAAS","service":"conversational-intelligence","timestamp":"2025-04-22 00:10:22"}
+{"level":"info","message":"Client disconnected: KKxhL3Vndz3n18UWAAAS, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 00:10:44"}
+{"level":"info","message":"Client connected: MrHdn1e_tKJqZrpbAAAU","service":"conversational-intelligence","timestamp":"2025-04-22 00:10:44"}
+{"level":"info","message":"Client disconnected: MrHdn1e_tKJqZrpbAAAU, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 00:11:09"}
+{"level":"info","message":"Client connected: iCOQKKqYv22sQBFeAAAW","service":"conversational-intelligence","timestamp":"2025-04-22 00:11:09"}
+{"level":"info","message":"Client disconnected: iCOQKKqYv22sQBFeAAAW, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-22 00:11:26"}
+{"level":"info","message":"Client connected: 6DK_O-BDhW3tBtQUAAAZ","service":"conversational-intelligence","timestamp":"2025-04-22 00:11:27"}
+{"level":"info","message":"Client disconnected: 6DK_O-BDhW3tBtQUAAAZ, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 00:13:30"}
+{"level":"info","message":"Client connected: LYwrNwiuXyGCn5GAAAAc","service":"conversational-intelligence","timestamp":"2025-04-22 00:13:31"}
+{"level":"info","message":"Client disconnected: LYwrNwiuXyGCn5GAAAAc, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-22 00:13:55"}
+{"level":"info","message":"Client connected: DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:13:57"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:48"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:48"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:48"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:48"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:49"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:49"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:51"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:53"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:53"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:54"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:54"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:55"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:55"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:56"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:56"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:57"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:57"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:58"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:58"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:59"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:14:59"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:00"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:00"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:01"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:01"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:02"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:02"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:03"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:04"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:04"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:05"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:16"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:17"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:17"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:18"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:18"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:19"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:19"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:20"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:21"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:21"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:22"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:22"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:23"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:23"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:24"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:24"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:25"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:25"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:26"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:28"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:28"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:29"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:29"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:30"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:30"}
+{"level":"info","message":"Analyzing face data from client DkfIEut6mgWTD6RNAAAf","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:31"}
+{"level":"info","message":"Client disconnected: DkfIEut6mgWTD6RNAAAf, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 00:15:31"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 00:48:32"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 00:48:57"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 00:59:57"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 01:00:20"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 01:03:56"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 01:04:06"}
+{"level":"info","message":"Client connected: wi77ImBq9idooTYxAAAi","service":"conversational-intelligence","timestamp":"2025-04-22 01:06:30"}
+{"level":"info","message":"Client disconnected: wi77ImBq9idooTYxAAAi, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-22 01:12:22"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 01:16:21"}
+{"code":1,"context":{"sid":"MhmuOl-ek0pWVm3hAAAh"},"level":"error","message":"Session ID unknown","req":{"_consuming":false,"_dumped":false,"_events":{},"_query":{"EIO":"4","sid":"MhmuOl-ek0pWVm3hAAAh","t":"hl85rstp","transport":"polling"},"_readableState":{"awaitDrainWriters":null,"buffer":[],"bufferIndex":0,"highWaterMark":16384,"length":0,"pipes":[]},"aborted":false,"client":{"_closeAfterHandlingError":false,"_events":{"close":[null,null],"end":[null,null]},"_eventsCount":8,"_hadError":false,"_host":null,"_httpMessage":{"_closed":false,"_contentLength":null,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":null,"_headerSent":false,"_keepAliveTimeout":5000,"_last":false,"_maxRequestsPerSocket":0,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":false,"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"strictContentLength":false,"useChunkedEncodingByDefault":true,"writable":true},"_parent":null,"_paused":false,"_pendingData":null,"_pendingEncoding":"","_readableState":{"awaitDrainWriters":null,"buffer":[],"bufferIndex":0,"highWaterMark":16384,"length":0,"pipes":[]},"_server":{"_connectionKey":"6::::5000","_connections":1,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0},"_sockname":null,"_writableState":{"bufferedIndex":0,"corked":0,"highWaterMark":16384,"length":0,"pendingcb":0,"writelen":0},"allowHalfOpen":true,"connecting":false,"parser":{"0":null,"_consumed":true,"_headers":[],"_url":"","incoming":"[Circular]","joinDuplicateHeaders":null,"maxHeaderPairs":2000,"outgoing":null,"socket":"[Circular]"},"server":{"_connectionKey":"6::::5000","_connections":1,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0}},"complete":false,"httpVersion":"1.1","httpVersionMajor":1,"httpVersionMinor":1,"joinDuplicateHeaders":null,"method":"POST","rawHeaders":["Host","localhost:5000","Connection","keep-alive","Content-Length","1","sec-ch-ua-platform","\"Windows\"","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36","Accept","*/*","sec-ch-ua","\"Chromium\";v=\"134\", \"Not:A-Brand\";v=\"24\", \"Brave\";v=\"134\"","Content-type","text/plain;charset=UTF-8","sec-ch-ua-mobile","?0","Sec-GPC","1","Accept-Language","en-US,en;q=0.7","Origin","http://localhost:3000","Sec-Fetch-Site","same-site","Sec-Fetch-Mode","cors","Sec-Fetch-Dest","empty","Referer","http://localhost:3000/","Accept-Encoding","gzip, deflate, br, zstd"],"rawTrailers":[],"res":{"_closed":false,"_contentLength":null,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":null,"_headerSent":false,"_keepAliveTimeout":5000,"_last":false,"_maxRequestsPerSocket":0,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":false,"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"strictContentLength":false,"useChunkedEncodingByDefault":true,"writable":true},"socket":{"_closeAfterHandlingError":false,"_events":{"close":[null,null],"end":[null,null]},"_eventsCount":8,"_hadError":false,"_host":null,"_httpMessage":{"_closed":false,"_contentLength":null,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":null,"_headerSent":false,"_keepAliveTimeout":5000,"_last":false,"_maxRequestsPerSocket":0,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":false,"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"strictContentLength":false,"useChunkedEncodingByDefault":true,"writable":true},"_parent":null,"_paused":false,"_pendingData":null,"_pendingEncoding":"","_readableState":{"awaitDrainWriters":null,"buffer":[],"bufferIndex":0,"highWaterMark":16384,"length":0,"pipes":[]},"_server":{"_connectionKey":"6::::5000","_connections":1,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0},"_sockname":null,"_writableState":{"bufferedIndex":0,"corked":0,"highWaterMark":16384,"length":0,"pendingcb":0,"writelen":0},"allowHalfOpen":true,"connecting":false,"parser":{"0":null,"_consumed":true,"_headers":[],"_url":"","incoming":"[Circular]","joinDuplicateHeaders":null,"maxHeaderPairs":2000,"outgoing":null,"socket":"[Circular]"},"server":{"_connectionKey":"6::::5000","_connections":1,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0}},"statusCode":null,"statusMessage":null,"upgrade":false,"url":"/socket.io/?EIO=4&transport=polling&t=hl85rstp&sid=MhmuOl-ek0pWVm3hAAAh"},"service":"conversational-intelligence","timestamp":"2025-04-22 01:16:23"}
+{"level":"info","message":"Client connected: SUrwKT7wfT6TykqdAAAk","service":"conversational-intelligence","timestamp":"2025-04-22 01:16:23"}
+{"level":"info","message":"Client disconnected: SUrwKT7wfT6TykqdAAAk, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-22 01:16:26"}
+{"code":1,"context":{"sid":"B1VNjB6lc7qASCKeAAAj"},"level":"error","message":"Session ID unknown","req":{"_consuming":false,"_dumped":false,"_events":{},"_query":{"EIO":"4","sid":"B1VNjB6lc7qASCKeAAAj","t":"hlzz2zms","transport":"polling"},"_readableState":{"awaitDrainWriters":null,"buffer":[],"bufferIndex":0,"highWaterMark":16384,"length":0,"pipes":[]},"aborted":false,"client":{"_closeAfterHandlingError":false,"_events":{"close":[null,null],"end":[null,null]},"_eventsCount":8,"_hadError":false,"_host":null,"_httpMessage":{"_closed":false,"_contentLength":null,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":null,"_headerSent":false,"_keepAliveTimeout":5000,"_last":false,"_maxRequestsPerSocket":0,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":false,"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"strictContentLength":false,"useChunkedEncodingByDefault":true,"writable":true},"_parent":null,"_paused":false,"_pendingData":null,"_pendingEncoding":"","_readableState":{"awaitDrainWriters":null,"buffer":[],"bufferIndex":0,"highWaterMark":16384,"length":0,"pipes":[]},"_server":{"_connectionKey":"6::::5000","_connections":2,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0},"_sockname":null,"_writableState":{"bufferedIndex":0,"corked":0,"highWaterMark":16384,"length":0,"pendingcb":0,"writelen":0},"allowHalfOpen":true,"connecting":false,"parser":{"0":null,"_consumed":true,"_headers":[],"_url":"","incoming":"[Circular]","joinDuplicateHeaders":null,"maxHeaderPairs":2000,"outgoing":null,"socket":"[Circular]"},"server":{"_connectionKey":"6::::5000","_connections":2,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0}},"complete":false,"httpVersion":"1.1","httpVersionMajor":1,"httpVersionMinor":1,"joinDuplicateHeaders":null,"method":"POST","rawHeaders":["Host","localhost:5000","Connection","keep-alive","Content-Length","1","sec-ch-ua-platform","\"Windows\"","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36","Accept","*/*","sec-ch-ua","\"Chromium\";v=\"134\", \"Not:A-Brand\";v=\"24\", \"Brave\";v=\"134\"","Content-type","text/plain;charset=UTF-8","sec-ch-ua-mobile","?0","Sec-GPC","1","Accept-Language","en-US,en;q=0.7","Origin","http://localhost:3000","Sec-Fetch-Site","same-site","Sec-Fetch-Mode","cors","Sec-Fetch-Dest","empty","Referer","http://localhost:3000/","Accept-Encoding","gzip, deflate, br, zstd"],"rawTrailers":[],"res":{"_closed":false,"_contentLength":null,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":null,"_headerSent":false,"_keepAliveTimeout":5000,"_last":false,"_maxRequestsPerSocket":0,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":false,"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"strictContentLength":false,"useChunkedEncodingByDefault":true,"writable":true},"socket":{"_closeAfterHandlingError":false,"_events":{"close":[null,null],"end":[null,null]},"_eventsCount":8,"_hadError":false,"_host":null,"_httpMessage":{"_closed":false,"_contentLength":null,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":null,"_headerSent":false,"_keepAliveTimeout":5000,"_last":false,"_maxRequestsPerSocket":0,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":false,"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"strictContentLength":false,"useChunkedEncodingByDefault":true,"writable":true},"_parent":null,"_paused":false,"_pendingData":null,"_pendingEncoding":"","_readableState":{"awaitDrainWriters":null,"buffer":[],"bufferIndex":0,"highWaterMark":16384,"length":0,"pipes":[]},"_server":{"_connectionKey":"6::::5000","_connections":2,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0},"_sockname":null,"_writableState":{"bufferedIndex":0,"corked":0,"highWaterMark":16384,"length":0,"pendingcb":0,"writelen":0},"allowHalfOpen":true,"connecting":false,"parser":{"0":null,"_consumed":true,"_headers":[],"_url":"","incoming":"[Circular]","joinDuplicateHeaders":null,"maxHeaderPairs":2000,"outgoing":null,"socket":"[Circular]"},"server":{"_connectionKey":"6::::5000","_connections":2,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0}},"statusCode":null,"statusMessage":null,"upgrade":false,"url":"/socket.io/?EIO=4&transport=polling&t=hlzz2zms&sid=B1VNjB6lc7qASCKeAAAj"},"service":"conversational-intelligence","timestamp":"2025-04-22 01:16:59"}
+{"level":"info","message":"Client connected: tCBnmvhyN4VKE81nAAAm","service":"conversational-intelligence","timestamp":"2025-04-22 01:16:59"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 01:17:08"}
+{"level":"info","message":"Client disconnected: tCBnmvhyN4VKE81nAAAm, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-22 01:20:22"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 01:23:37"}
+{"code":1,"context":{"sid":"651MDD6imQI5H9lUAAAl"},"level":"error","message":"Session ID unknown","req":{"_consuming":false,"_dumped":false,"_events":{},"_query":{"EIO":"4","sid":"651MDD6imQI5H9lUAAAl","t":"hukwlag4","transport":"polling"},"_readableState":{"awaitDrainWriters":null,"buffer":[],"bufferIndex":0,"highWaterMark":16384,"length":0,"pipes":[]},"aborted":false,"client":{"_closeAfterHandlingError":false,"_events":{"close":[null,null],"end":[null,null]},"_eventsCount":8,"_hadError":false,"_host":null,"_httpMessage":{"_closed":false,"_contentLength":null,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":null,"_headerSent":false,"_keepAliveTimeout":5000,"_last":false,"_maxRequestsPerSocket":0,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":false,"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"strictContentLength":false,"useChunkedEncodingByDefault":true,"writable":true},"_parent":null,"_paused":false,"_pendingData":null,"_pendingEncoding":"","_readableState":{"awaitDrainWriters":null,"buffer":[],"bufferIndex":0,"highWaterMark":16384,"length":0,"pipes":[]},"_server":{"_connectionKey":"6::::5000","_connections":1,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0},"_sockname":null,"_writableState":{"bufferedIndex":0,"corked":0,"highWaterMark":16384,"length":0,"pendingcb":0,"writelen":0},"allowHalfOpen":true,"connecting":false,"parser":{"0":null,"_consumed":true,"_headers":[],"_url":"","incoming":"[Circular]","joinDuplicateHeaders":null,"maxHeaderPairs":2000,"outgoing":null,"socket":"[Circular]"},"server":{"_connectionKey":"6::::5000","_connections":1,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0}},"complete":false,"httpVersion":"1.1","httpVersionMajor":1,"httpVersionMinor":1,"joinDuplicateHeaders":null,"method":"POST","rawHeaders":["Host","localhost:5000","Connection","keep-alive","Content-Length","1","sec-ch-ua-platform","\"Windows\"","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36","Accept","*/*","sec-ch-ua","\"Chromium\";v=\"134\", \"Not:A-Brand\";v=\"24\", \"Brave\";v=\"134\"","Content-type","text/plain;charset=UTF-8","sec-ch-ua-mobile","?0","Sec-GPC","1","Accept-Language","en-US,en;q=0.7","Origin","http://localhost:3000","Sec-Fetch-Site","same-site","Sec-Fetch-Mode","cors","Sec-Fetch-Dest","empty","Referer","http://localhost:3000/","Accept-Encoding","gzip, deflate, br, zstd"],"rawTrailers":[],"res":{"_closed":false,"_contentLength":null,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":null,"_headerSent":false,"_keepAliveTimeout":5000,"_last":false,"_maxRequestsPerSocket":0,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":false,"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"strictContentLength":false,"useChunkedEncodingByDefault":true,"writable":true},"socket":{"_closeAfterHandlingError":false,"_events":{"close":[null,null],"end":[null,null]},"_eventsCount":8,"_hadError":false,"_host":null,"_httpMessage":{"_closed":false,"_contentLength":null,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":null,"_headerSent":false,"_keepAliveTimeout":5000,"_last":false,"_maxRequestsPerSocket":0,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":false,"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"strictContentLength":false,"useChunkedEncodingByDefault":true,"writable":true},"_parent":null,"_paused":false,"_pendingData":null,"_pendingEncoding":"","_readableState":{"awaitDrainWriters":null,"buffer":[],"bufferIndex":0,"highWaterMark":16384,"length":0,"pipes":[]},"_server":{"_connectionKey":"6::::5000","_connections":1,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0},"_sockname":null,"_writableState":{"bufferedIndex":0,"corked":0,"highWaterMark":16384,"length":0,"pendingcb":0,"writelen":0},"allowHalfOpen":true,"connecting":false,"parser":{"0":null,"_consumed":true,"_headers":[],"_url":"","incoming":"[Circular]","joinDuplicateHeaders":null,"maxHeaderPairs":2000,"outgoing":null,"socket":"[Circular]"},"server":{"_connectionKey":"6::::5000","_connections":1,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0}},"statusCode":null,"statusMessage":null,"upgrade":false,"url":"/socket.io/?EIO=4&transport=polling&t=hukwlag4&sid=651MDD6imQI5H9lUAAAl"},"service":"conversational-intelligence","timestamp":"2025-04-22 01:23:39"}
+{"level":"info","message":"Client connected: 3nQ9Ucf03Pd5Er5_AAAo","service":"conversational-intelligence","timestamp":"2025-04-22 01:31:25"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 01:31:34"}
+{"level":"info","message":"Client disconnected: 3nQ9Ucf03Pd5Er5_AAAo, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-22 01:35:47"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 01:40:51"}
+{"code":1,"context":{"sid":"UasYuyqjes-4yW_EAAAn"},"level":"error","message":"Session ID unknown","req":{"_consuming":false,"_dumped":false,"_events":{},"_query":{"EIO":"4","sid":"UasYuyqjes-4yW_EAAAn","t":"igrd4u2p","transport":"polling"},"_readableState":{"awaitDrainWriters":null,"buffer":[],"bufferIndex":0,"highWaterMark":16384,"length":0,"pipes":[]},"aborted":false,"client":{"_closeAfterHandlingError":false,"_events":{"close":[null,null],"end":[null,null]},"_eventsCount":8,"_hadError":false,"_host":null,"_httpMessage":{"_closed":false,"_contentLength":null,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":null,"_headerSent":false,"_keepAliveTimeout":5000,"_last":false,"_maxRequestsPerSocket":0,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":false,"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"strictContentLength":false,"useChunkedEncodingByDefault":true,"writable":true},"_parent":null,"_paused":false,"_pendingData":null,"_pendingEncoding":"","_readableState":{"awaitDrainWriters":null,"buffer":[],"bufferIndex":0,"highWaterMark":16384,"length":0,"pipes":[]},"_server":{"_connectionKey":"6::::5000","_connections":1,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0},"_sockname":null,"_writableState":{"bufferedIndex":0,"corked":0,"highWaterMark":16384,"length":0,"pendingcb":0,"writelen":0},"allowHalfOpen":true,"connecting":false,"parser":{"0":null,"_consumed":true,"_headers":[],"_url":"","incoming":"[Circular]","joinDuplicateHeaders":null,"maxHeaderPairs":2000,"outgoing":null,"socket":"[Circular]"},"server":{"_connectionKey":"6::::5000","_connections":1,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0}},"complete":false,"httpVersion":"1.1","httpVersionMajor":1,"httpVersionMinor":1,"joinDuplicateHeaders":null,"method":"POST","rawHeaders":["Host","localhost:5000","Connection","keep-alive","Content-Length","1","sec-ch-ua-platform","\"Windows\"","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36","Accept","*/*","sec-ch-ua","\"Chromium\";v=\"134\", \"Not:A-Brand\";v=\"24\", \"Brave\";v=\"134\"","Content-type","text/plain;charset=UTF-8","sec-ch-ua-mobile","?0","Sec-GPC","1","Accept-Language","en-US,en;q=0.7","Origin","http://localhost:3000","Sec-Fetch-Site","same-site","Sec-Fetch-Mode","cors","Sec-Fetch-Dest","empty","Referer","http://localhost:3000/","Accept-Encoding","gzip, deflate, br, zstd"],"rawTrailers":[],"res":{"_closed":false,"_contentLength":null,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":null,"_headerSent":false,"_keepAliveTimeout":5000,"_last":false,"_maxRequestsPerSocket":0,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":false,"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"strictContentLength":false,"useChunkedEncodingByDefault":true,"writable":true},"socket":{"_closeAfterHandlingError":false,"_events":{"close":[null,null],"end":[null,null]},"_eventsCount":8,"_hadError":false,"_host":null,"_httpMessage":{"_closed":false,"_contentLength":null,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":null,"_headerSent":false,"_keepAliveTimeout":5000,"_last":false,"_maxRequestsPerSocket":0,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":false,"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"strictContentLength":false,"useChunkedEncodingByDefault":true,"writable":true},"_parent":null,"_paused":false,"_pendingData":null,"_pendingEncoding":"","_readableState":{"awaitDrainWriters":null,"buffer":[],"bufferIndex":0,"highWaterMark":16384,"length":0,"pipes":[]},"_server":{"_connectionKey":"6::::5000","_connections":1,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0},"_sockname":null,"_writableState":{"bufferedIndex":0,"corked":0,"highWaterMark":16384,"length":0,"pendingcb":0,"writelen":0},"allowHalfOpen":true,"connecting":false,"parser":{"0":null,"_consumed":true,"_headers":[],"_url":"","incoming":"[Circular]","joinDuplicateHeaders":null,"maxHeaderPairs":2000,"outgoing":null,"socket":"[Circular]"},"server":{"_connectionKey":"6::::5000","_connections":1,"_events":{"listening":[null,null]},"_eventsCount":5,"_handle":{"reading":false},"_listeningId":2,"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"connectionsCheckingInterval":30000,"headersTimeout":60000,"highWaterMark":16384,"httpAllowHalfOpen":false,"keepAlive":false,"keepAliveInitialDelay":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"noDelay":true,"pauseOnConnect":false,"rejectNonStandardBodyWrites":false,"requestTimeout":300000,"requireHostHeader":true,"timeout":0}},"statusCode":null,"statusMessage":null,"upgrade":false,"url":"/socket.io/?EIO=4&transport=polling&t=igrd4u2p&sid=UasYuyqjes-4yW_EAAAn"},"service":"conversational-intelligence","timestamp":"2025-04-22 01:40:53"}
+{"level":"info","message":"Client connected: lAFXRFthZF4AePkyAAAq","service":"conversational-intelligence","timestamp":"2025-04-22 01:40:54"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 01:41:01"}
+{"level":"info","message":"Client disconnected: lAFXRFthZF4AePkyAAAq, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 01:43:21"}
+{"level":"info","message":"Client connected: tYsmziIDtc8eTNSkAAAt","service":"conversational-intelligence","timestamp":"2025-04-22 01:43:21"}
+{"level":"info","message":"Client disconnected: tYsmziIDtc8eTNSkAAAt, reason: transport error","service":"conversational-intelligence","timestamp":"2025-04-22 01:43:23"}
+{"level":"info","message":"Client connected: _U3BALQa07Agi7i3AAAw","service":"conversational-intelligence","timestamp":"2025-04-22 01:43:26"}
+{"level":"info","message":"Client disconnected: _U3BALQa07Agi7i3AAAw, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 01:43:28"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-22 01:58:36"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-22 01:58:38"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 03:11:53"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 09:34:04"}
+{"level":"info","message":"Client connected: gXVCy7eTjmvopDbJAAAC","service":"conversational-intelligence","timestamp":"2025-04-22 09:44:42"}
+{"level":"info","message":"Client disconnected: gXVCy7eTjmvopDbJAAAC, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-22 09:46:11"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 10:03:21"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 10:03:32"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 10:20:59"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 10:21:10"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 11:06:46"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 11:06:58"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 13:04:22"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 13:20:30"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 13:43:02"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 13:43:13"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 13:48:27"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 13:48:38"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-22 14:45:14"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-22 14:45:26"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-22 15:14:06"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-22 15:14:11"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-22 15:21:37"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-22 15:21:42"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-22 15:21:48"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-22 15:22:02"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-22 15:22:04"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-23 08:24:18"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-23 08:24:19"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-23 09:42:59"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-23 12:50:02"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-23 13:00:40"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-23 13:15:38"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-23 13:16:21"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-23 13:20:19"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-23 13:30:32"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-23 13:30:44"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-23 13:31:58"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-23 13:33:49"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-23 13:34:30"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-23 13:34:42"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-23 13:54:19"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-23 13:55:04"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-23 14:11:17"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-23 14:11:29"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-23 14:32:00"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-23 14:32:35"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-23 15:10:28"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-23 15:10:28"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-23 15:28:07"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-23 15:30:37"}
+{"level":"info","message":"Server running on port 5000","service":"conversational-intelligence","timestamp":"2025-04-24 00:40:52"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"conversational-intelligence","timestamp":"2025-04-24 00:40:57"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-24 01:09:52"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-24 01:10:03"}
+{"level":"info","message":"Client connected: 0Ni79QoTTeX8_r-pAAAC","service":"conversational-intelligence","timestamp":"2025-04-24 01:26:32"}
+{"level":"info","message":"Client disconnected: 0Ni79QoTTeX8_r-pAAAC, reason: client namespace disconnect","service":"conversational-intelligence","timestamp":"2025-04-24 01:27:40"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-24 01:34:42"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-24 01:34:55"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-24 01:41:22"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-24 01:41:35"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-24 01:54:46"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-24 01:54:57"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-24 02:08:18"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-24 02:08:31"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"conversational-intelligence","timestamp":"2025-04-24 02:35:02"}
+{"level":"info","message":"MongoDB reconnected","service":"conversational-intelligence","timestamp":"2025-04-24 02:50:07"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-04-24T02:22:38.607Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-04-24T02:25:58.884Z"}
+{"level":"info","message":"Client connected: BZaM2TOmi_phqh_mAAAC","service":"ai-studentverse","timestamp":"2025-04-24T02:30:05.492Z"}
+{"level":"info","message":"Analyzing face data from client BZaM2TOmi_phqh_mAAAC","service":"ai-studentverse","timestamp":"2025-04-24T02:30:24.707Z"}
+{"level":"info","message":"Analyzing face data from client BZaM2TOmi_phqh_mAAAC","service":"ai-studentverse","timestamp":"2025-04-24T02:30:24.790Z"}
+{"level":"info","message":"Analyzing face data from client BZaM2TOmi_phqh_mAAAC","service":"ai-studentverse","timestamp":"2025-04-24T02:30:26.395Z"}
+{"level":"info","message":"Analyzing text from client BZaM2TOmi_phqh_mAAAC","service":"ai-studentverse","timestamp":"2025-04-24T02:30:32.913Z"}
+{"level":"info","message":"Starting text analysis","service":"ai-studentverse","timestamp":"2025-04-24T02:30:32.915Z"}
+{"level":"info","message":"Client disconnected: BZaM2TOmi_phqh_mAAAC, reason: client namespace disconnect","service":"ai-studentverse","timestamp":"2025-04-24T02:30:33.091Z"}
+{"level":"info","message":"Client connected: q7CZq-qsuyrbKay6AAAF","service":"ai-studentverse","timestamp":"2025-04-24T02:32:29.351Z"}
+{"level":"info","message":"Client disconnected: q7CZq-qsuyrbKay6AAAF, reason: client namespace disconnect","service":"ai-studentverse","timestamp":"2025-04-24T02:32:31.934Z"}
+{"level":"info","message":"Client connected: qV3ngaAJbgfylRbmAAAI","service":"ai-studentverse","timestamp":"2025-04-24T02:33:47.848Z"}
+{"level":"info","message":"Analyzing text from client qV3ngaAJbgfylRbmAAAI","service":"ai-studentverse","timestamp":"2025-04-24T02:33:51.141Z"}
+{"level":"info","message":"Starting text analysis","service":"ai-studentverse","timestamp":"2025-04-24T02:33:51.144Z"}
+{"level":"info","message":"Client disconnected: qV3ngaAJbgfylRbmAAAI, reason: client namespace disconnect","service":"ai-studentverse","timestamp":"2025-04-24T02:33:51.229Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-04-24T02:35:08.207Z"}
+{"level":"info","message":"Server running on port 5001","timestamp":"2025-04-24T02:37:28.565Z"}

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Download Face-api.js Models</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    button {
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      margin: 10px 0;
+    }
+    #status {
+      margin-top: 20px;
+      padding: 10px;
+      border-radius: 4px;
+    }
+    .success {
+      background-color: #d4edda;
+      color: #155724;
+    }
+    .error {
+      background-color: #f8d7da;
+      color: #721c24;
+    }
+  </style>
+</head>
+<body>
+  <h1>Download Face-api.js Models</h1>
+  <p>Click the button below to download the required face-api.js model files.</p>
+  <button id="downloadButton">Download Models</button>
+  <div id="status"></div>
+
+  <script>
+    const modelFiles = [
+      'tiny_face_detector_model-weights_manifest.json',
+      'tiny_face_detector_model-shard1',
+      'face_expression_model-weights_manifest.json',
+      'face_expression_model-shard1',
+      'face_landmark_68_model-weights_manifest.json',
+      'face_landmark_68_model-shard1'
+    ];
+
+    const baseUrl = 'https://raw.githubusercontent.com/justadudewhohacks/face-api.js/master/weights';
+    const statusElement = document.getElementById('status');
+    const downloadButton = document.getElementById('downloadButton');
+
+    downloadButton.addEventListener('click', async () => {
+      downloadButton.disabled = true;
+      statusElement.textContent = 'Downloading models...';
+      statusElement.className = '';
+
+      let successCount = 0;
+      let errorCount = 0;
+
+      for (const file of modelFiles) {
+        try {
+          const response = await fetch(`${baseUrl}/${file}`);
+          if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+          
+          const blob = await response.blob();
+          const a = document.createElement('a');
+          a.href = URL.createObjectURL(blob);
+          a.download = file;
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+          
+          successCount++;
+          statusElement.textContent = `Downloaded ${successCount} of ${modelFiles.length} files...`;
+        } catch (error) {
+          console.error(`Error downloading ${file}:`, error);
+          errorCount++;
+          statusElement.textContent = `Error downloading ${file}. Check console for details.`;
+          statusElement.className = 'error';
+        }
+      }
+
+      if (errorCount === 0) {
+        statusElement.textContent = `Successfully downloaded all ${modelFiles.length} model files!`;
+        statusElement.className = 'success';
+      } else {
+        statusElement.textContent = `Downloaded ${successCount} files, but encountered ${errorCount} errors.`;
+        statusElement.className = 'error';
+      }
+
+      downloadButton.disabled = false;
+    });
+  </script>
+</body>
+</html> 

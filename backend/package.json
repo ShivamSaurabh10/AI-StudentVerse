@@ -1,0 +1,28 @@
+{
+  "name": "conversational-intelligence-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI-Powered Conversational Intelligence Platform",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3",
+    "natural": "^6.2.0",
+    "sentiment": "^5.0.2",
+    "socket.io": "^4.8.1",
+    "winston": "^3.8.2",
+    "ws": "^8.18.1"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22"
+  }
+}
